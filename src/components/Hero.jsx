@@ -2,7 +2,7 @@ import { useRef, useEffect } from "react";
 import { PROFILE } from "../constants";
 import { RiArrowRightUpLine } from "@remixicon/react";
 import { gsap } from "gsap";
-import david from "../assets/david.webp";
+import david from "../assets/David.webp";
 
 const Hero = () => {
   const heroRef = useRef(null);
